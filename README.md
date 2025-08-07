@@ -1,0 +1,4 @@
+-> Install All the libraries in the requirements.txt file
+-> Next open this file using command prompt
+-> Next run this command in the command prompt "streamlit run filename.py"
+-> The File which we have is "streamlit run Myproject.py"
